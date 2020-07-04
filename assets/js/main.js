@@ -35,7 +35,7 @@ for (let i = 5; i>=1; i--) {
 // 3*10=30
 
 let i = 3;
-for (j=1; j<=10; j++)
+for (let j=1; j<=10; j++)
 document.write("<p>"+i+"*"+j+" = "+(i*j)+"</p>");
 
 // let result ='';
